@@ -1,0 +1,16 @@
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\bin\Debug\QuanCaPhe.exe.config
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\bin\Debug\QuanCaPhe.exe
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\bin\Debug\QuanCaPhe.pdb
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.csproj.AssemblyReference.cache
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.csproj.SuggestedBindingRedirects.cache
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.DangNhap.resources
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.Menu.resources
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.Properties.Resources.resources
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.QuanLiBanHang.resources
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.QuanLiDangNhap.resources
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.QuanLiKhachHang.resources
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.ThanhToan.resources
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.csproj.GenerateResource.cache
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.csproj.CoreCompileInputs.cache
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.exe
+G:\CNTT\Lập trình CSDL\QuanCaPhe\QuanCaPhe\QuanCaPhe\obj\Debug\QuanCaPhe.pdb
