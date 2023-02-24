@@ -19,4 +19,5 @@ namespace QuanCaPhe.BanHang
     }
 }
 // add thay doi 
-// abc 
+// abc  thay doi ne
+// ta da thay doi ne
