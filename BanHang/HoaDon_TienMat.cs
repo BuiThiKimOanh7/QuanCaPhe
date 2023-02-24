@@ -15,9 +15,11 @@ namespace QuanCaPhe.BanHang
         public HoaDon()
         {
             InitializeComponent();
-        }
+        }// cho nay cung them ne
     }
 }
 // add thay doi 
 // abc  thay doi ne
 // ta da thay doi ne
+// them 1 dong moi ne
+// thay doi them 1 dong nua
